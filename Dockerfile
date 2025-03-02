@@ -9,4 +9,4 @@ RUN apt-get update && apt-get install -y git
 
 COPY . .
 
-CMD ["bash", "start.sh"]
+CMD ["bash", "start.sh", "__main__.py"]
