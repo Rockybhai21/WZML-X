@@ -44,4 +44,4 @@ uvloop
 xattr
 yt-dlp[default,curl-cffi]
 pytz
-pip freeze > requirements.txt
+pip freeze
